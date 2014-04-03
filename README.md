@@ -1,2 +1,2 @@
-genefam_pipeline
-================
+Cell wall gene identification pipeline
+======================================
